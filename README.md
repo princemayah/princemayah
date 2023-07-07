@@ -20,3 +20,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="aws" width="90" height="30"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+
+# Portfolio Guide
+
+Welcome to my portfolio guide! Here, you will find descriptions of the projects I have been working on, providing insights into the skills I have developed and the experiences I have gained. Feel free to explore and learn more about each project.
+
+## Table of Contents
+
+- [C++](#c)
+
+# C++
+
+| Project | Project Type | Project Description | Highlights | 
+|---|---|---|---|
+| [Sparse Matrix Calculator](https://github.com/princemayah/Sparse-Martrix-Calculator) | Algorithm Implementation | Implements a sparse matrix using linked lists for efficient storage and manipulation. Supports operations such as insertion, transposition, addition, subtraction, and multiplication. | Sparse matrix class implementation, matrix operations support, efficient memory usage with linked lists, utilizes DFS, interactive input, readable printing. |
+| [Depth First Search Maze](https://github.com/princemayah/Depth-First-Search-Maze) | Algorithm Implementation | Generates a maze using a randomized Prim's algorithm and connects cells using depth-first search. The maze is represented as a grid of cells with walls and open paths. | Maze generation with randomized Prim's algorithm, depth-first search for cell connection, customizable command-line interface, console-based maze printing. |
