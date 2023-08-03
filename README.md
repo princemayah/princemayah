@@ -5,8 +5,6 @@
 
 - 🔭 You can find my dashboards on Tableau Public [https://public.tableau.com/app/profile/prince.mayah](https://public.tableau.com/app/profile/prince.mayah)
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@pmayah](https://replit.com/@pmayah)
-
 - 💬 Ask me about **data cleaning and data visualization**
 
 - 📫 You can reach me at **princemayah@gmail.com**
@@ -29,8 +27,17 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 
 ## Table of Contents
 
+- [SQL](#sql)
 - [Tableau](#tableau)
 - [C++](#c)
+
+# SQL
+
+| Project | Project Description | Highlights | 
+|---|---|---|
+| [8 Week SQL Challenge](https://github.com/princemayah/8-Week-SQL-Challenge) | The 8 Week SQL Challenge is a program that hones SQL skills through real-world case studies, gradually progressing from foundational concepts to advanced techniques. Each study offers a dataset reflecting real data, and this repository houses solutions for all eight cases. | Data analysis, data cleaning & preprocessing, data exploration, data transformation, data manipulation, insight generation |
+
+---
 
 # Tableau
 
