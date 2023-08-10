@@ -28,6 +28,7 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 ## Table of Contents
 
 - [SQL](#sql)
+- [Python](#python)
 - [Tableau](#tableau)
 - [C++](#c)
 
@@ -36,6 +37,14 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 | Project | Project Description | Highlights | 
 |---|---|---|
 | [8 Week SQL Challenge](https://github.com/princemayah/8-Week-SQL-Challenge) | The 8 Week SQL Challenge is a program that hones SQL skills through real-world case studies, gradually progressing from foundational concepts to advanced techniques. Each study offers a dataset reflecting real data, and this repository houses solutions for all eight cases. | Data analysis, data cleaning & preprocessing, data exploration, data transformation, data manipulation, insight generation |
+
+---
+
+# Python
+
+| Project | Project Type | Project Description | Highlights | 
+|---|---|---|---|
+| [Snake Game](https://github.com/princemayah/Snake-Game) | Game Implementation | A classic Snake Game implemented in Python using the Pygame library. Players control a snake, eat food, and avoid collisions. Includes a leaderboard and game-over options. | Pygame integration, game logic organization, leaderboard management, collision detection, user input handling, time management, game loop implementation, rendering graphics, event-driven programming |
 
 ---
 
