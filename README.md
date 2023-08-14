@@ -35,6 +35,7 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 | Project | Project Type | Project Description | Highlights | 
 |---|---|---|---|
 | [Snake Game](https://github.com/princemayah/Snake-Game) | Game Implementation | A classic Snake Game implemented in Python using the Pygame library. Players control a snake, eat food, and avoid collisions. Includes a leaderboard and game-over options. | Pygame integration, game logic organization, leaderboard management, collision detection, user input handling, time management, game loop implementation, rendering graphics, event-driven programming |
+| [Python Keylogger](https://github.com/princemayah/Python-Keylogger) | Cyber Security | A keylogger that captures keystrokes using the pynput library and sends the recorded keystrokes via email as a log file attachment. The script runs in the background and records keystrokes without user interaction. | Keystroke logging, background operation, email log file attachment, user input capture, pynput library usage, email configuration |
 
 ---
 
