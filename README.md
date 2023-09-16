@@ -19,6 +19,7 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 
 - [SQL](#sql)
 - [Python](#python)
+- [Excel](#excel)
 - [Tableau](#tableau)
 - [C++](#c)
 
@@ -36,6 +37,15 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 |---|---|---|---|
 | [Snake Game](https://github.com/princemayah/Snake-Game) | Game Implementation | A classic Snake Game implemented in Python using the Pygame library. Players control a snake, eat food, and avoid collisions. Includes a leaderboard and game-over options. | Pygame integration, game logic organization, leaderboard management, collision detection, user input handling, time management, game loop implementation, rendering graphics, event-driven programming |
 | [Python Keylogger](https://github.com/princemayah/Python-Keylogger) | Cyber Security | A keylogger that captures keystrokes using the pynput library and sends the recorded keystrokes via email as a log file attachment. The script runs in the background and records keystrokes without user interaction. | Keystroke logging, background operation, email log file attachment, user input capture, pynput library usage, email configuration |
+
+---
+
+# Excel
+
+| Project | Project Description | Highlights |
+| --- | --- | --- |
+| [Excel Modules](https://github.com/princemayah/Excel-Modules) | A Collection of Excel Modules for Efficient Data Management and Analysis. Explore these modules designed to showcase the versatility of Excel's features for data management, analysis, and visualization. | Data transformation, calculations, formatting, logical analysis, data visualization, sheet customization, workflow management, scenario analysis, productivity tools, external data insights, accessibility |
+
 
 ---
 
