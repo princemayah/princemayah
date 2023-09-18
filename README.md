@@ -45,7 +45,7 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 | Project | Project Description | Highlights |
 | --- | --- | --- |
 | [Excel Modules](https://github.com/princemayah/Excel-Modules) | A Collection of Excel Modules for Efficient Data Management and Analysis. Explore these modules designed to showcase the versatility of Excel's features for data management, analysis, and visualization. | Data transformation, calculations, formatting, logical analysis, data visualization, sheet customization, workflow management, scenario analysis, productivity tools, external data insights, accessibility |
-
+| [Bike Sales Dashboard](https://github.com/princemayah/Bike-Sales-Dashboard) | This workbook utilizes a wide range of data management and analytical tools in order to craft an interactive dashboard for bike sales data, enabling comprehensive insights, informed decision-making, and improved sales performance tracking. | Data analysis, data visualization, interactive dashboard, data management, data cleaning, conditional logic, pivot tables, charts, multiple sheets, data presentation, slicer filtering |
 
 ---
 
