@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Prince Mayah</h1>
-<h3 align="center"> I am Business Intelligence Professional with a background in Computer Science</h3>
+<h3 align="center"> I am a Business Intelligence Professional with a Bachelor's degree in Computer Science</h3>
 
 - 💬 Data cleaning and data visualization are areas in which I excel. Feel free to reach out with questions about these subjects, as I am well-prepared to provide you with valuable insights and expert guidance.
 
