@@ -22,12 +22,14 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 - [Excel](#excel)
 - [Tableau](#tableau)
 - [C++](#c)
+- [Web Development](#web-development)
 
 # SQL
 
 | Project | Project Description | Highlights | 
 |---|---|---|
 | [8 Week SQL Challenge](https://github.com/princemayah/8-Week-SQL-Challenge) | The 8 Week SQL Challenge is a program that hones SQL skills through real-world case studies, gradually progressing from foundational concepts to advanced techniques. Each study offers a dataset reflecting real data, and this repository houses solutions for all eight cases. | Data analysis, data cleaning & preprocessing, data exploration, data transformation, data manipulation, insight generation |
+| [Post Office System](https://github.com/princemayah/Post-Office-System) | This project uses MySQL to create a Post Office System that enhances the efficiency of postal operations. The SQL schema supports complex relationships and real-time operations, essential for managing users, employees, and package tracking. | Complex SQL schema, foreign key constraints, real-time email notification system, comprehensive data integrity with cascading deletes and updates, advanced relational database management |
 
 ---
 
@@ -67,3 +69,10 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 | [Depth First Search Maze](https://github.com/princemayah/Depth-First-Search-Maze) | Algorithm Implementation | Generates a maze using a randomized Prim's algorithm and connects cells using depth-first search. The maze is represented as a grid of cells with walls and open paths. | Maze generation with randomized Prim's algorithm, depth-first search for cell connection, customizable command-line interface, console-based maze printing. |
 | [Multithreaded Run-Length Encoder](https://github.com/princemayah/Multithreaded-Run-Length-Encoder) | Multithreaded Program | Implements a multithreaded Run-Length Encoder (RLE) that processes multiple-input strings concurrently using POSIX threads. | Multithreaded RLE encoding, POSIX threads, concurrent processing, RLE algorithm implementation, client-server communication, interprocess synchronization. |
 
+---
+
+# Web Development
+
+| Project | Project Description | Highlights | 
+|---|---|---|
+| [Post Office System](https://github.com/princemayah/Post-Office-System) | This project develops a Post Office System using Node.js, React, and MySQL. It handles interactions between users and employees, package tracking, and manages updates through a web-based interface. Employing advanced web technologies, the system guarantees a robust and secure user experience. | Advanced web technologies, JSON Web Tokens (JWT), real-time data updates, database triggers, dynamic CRUD operations, secure and interactive user interface |
