@@ -58,6 +58,8 @@ Welcome to my portfolio guide! Here, you will find descriptions of the projects 
 |---|---|---|
 | [NBA 2021-22 Player Analysis](https://github.com/princemayah/NBA-2021-22-Player-Analysis) | An interactive dashboard for exploring player statistics from the 2021-22 NBA season. Offers a range of metrics and filters, presenting insights and trends in a visually appealing manner for fans, analysts, and enthusiasts seeking a deeper understanding of player performance. | [Dashboard](https://public.tableau.com/app/profile/prince.mayah/viz/NBA2021-22PlayerAnalysis/NBA2021-2022) |
 | [Texas Median Home Values](https://github.com/princemayah/Texas-Median-Home-Values) | A visualization of median home values in different metropolitan areas and zip codes in Texas.  Enables easy comparison of home values across regions, with options to focus on specific zip codes or metro areas. Includes historical price trends. | [Dashboard](https://public.tableau.com/app/profile/prince.mayah/viz/TexasMedianHomeValues/Dashboard) |
+| [Historical United States Presidential Election Results](https://github.com/princemayah/Historical-United-States-Presidential-Election-Results) | This is an interactive dashboard that provides a detailed visualization of historical U.S. presidential election results from 1976 to 2020. The data for these visualizations was cleaned using Excel VBA to ensure accuracy and reliability in the analysis. | [Dashboard](https://public.tableau.com/app/profile/prince.mayah/viz/HistoricalUnitedStatesPresidentialElectionResults/Dashboard) |
+
 
 ---
 
